@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rejouir/static/css/main.1ac14a89.css",
-    "main.js": "/Rejouir/static/js/main.1a428f10.js",
+    "main.js": "/Rejouir/static/js/main.c1c7e178.js",
     "static/media/Rejouir Date.jpg": "/Rejouir/static/media/Rejouir Date.8a41415bad355493878a.jpg",
     "static/media/TREASURE HUNT.jpg": "/Rejouir/static/media/TREASURE HUNT.76a3ae5a644e0a22d965.jpg",
     "static/media/SERIES QUIZ.jpg": "/Rejouir/static/media/SERIES QUIZ.ae287a0b26ab93bb46eb.jpg",
@@ -102,10 +102,10 @@
     "static/media/feature2_bg.png": "/Rejouir/static/media/feature2_bg.c39835925d68a2ec1b42.png",
     "index.html": "/Rejouir/index.html",
     "main.1ac14a89.css.map": "/Rejouir/static/css/main.1ac14a89.css.map",
-    "main.1a428f10.js.map": "/Rejouir/static/js/main.1a428f10.js.map"
+    "main.c1c7e178.js.map": "/Rejouir/static/js/main.c1c7e178.js.map"
   },
   "entrypoints": [
     "static/css/main.1ac14a89.css",
-    "static/js/main.1a428f10.js"
+    "static/js/main.c1c7e178.js"
   ]
 }
