@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Rejouir/static/css/main.1ac14a89.css",
-    "main.js": "/Rejouir/static/js/main.2e036b22.js",
+    "main.css": "/Rejouir/static/css/main.0bc51ede.css",
+    "main.js": "/Rejouir/static/js/main.ca030fab.js",
     "static/media/Rejouir Date.jpg": "/Rejouir/static/media/Rejouir Date.8a41415bad355493878a.jpg",
     "static/media/TREASURE HUNT.jpg": "/Rejouir/static/media/TREASURE HUNT.76a3ae5a644e0a22d965.jpg",
     "static/media/SERIES QUIZ.jpg": "/Rejouir/static/media/SERIES QUIZ.ae287a0b26ab93bb46eb.jpg",
@@ -101,11 +101,11 @@
     "static/media/feature1_bg.png": "/Rejouir/static/media/feature1_bg.4dee57dec6d01ac1b11a.png",
     "static/media/feature2_bg.png": "/Rejouir/static/media/feature2_bg.c39835925d68a2ec1b42.png",
     "index.html": "/Rejouir/index.html",
-    "main.1ac14a89.css.map": "/Rejouir/static/css/main.1ac14a89.css.map",
-    "main.2e036b22.js.map": "/Rejouir/static/js/main.2e036b22.js.map"
+    "main.0bc51ede.css.map": "/Rejouir/static/css/main.0bc51ede.css.map",
+    "main.ca030fab.js.map": "/Rejouir/static/js/main.ca030fab.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ac14a89.css",
-    "static/js/main.2e036b22.js"
+    "static/css/main.0bc51ede.css",
+    "static/js/main.ca030fab.js"
   ]
 }
