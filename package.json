@@ -2,6 +2,7 @@
   "name": "rejouir-2k23",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://harshr10.github.io/Rejouir/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
